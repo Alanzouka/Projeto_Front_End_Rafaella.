@@ -8,7 +8,7 @@ h1 {
     text-shadow: 2px 2px 5px red;
 }
  p {
-    color: rgb(239, 211, 211);
+    color: rgb(243, 226, 226);
     text-align: center;
     font-size:20px;
  }
@@ -18,3 +18,22 @@ h1 {
     text-align: center;
     text-shadow: 2px 2px 5px red;
  }
+ h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-size: 30px;
+ }
+ h4 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-size: 30px;
+ }
+ ul {
+    color: rgb(255, 205, 205);
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    font-size: 20px;
+ }
+    
