@@ -3,8 +3,8 @@ body {
 }
 
 h1 {
+   text-align: center;
     color: white;
-    text-align: center;
     text-shadow: 2px 2px 5px red;
 }
  p {
@@ -15,18 +15,15 @@ h1 {
 
  H2 {
     color: white;
-    text-align: center;
     text-shadow: 2px 2px 5px red;
  }
  h3 {
     color: rgb(255, 255, 255);
-    text-align: center;
     text-shadow: 2px 2px 5px red;
     font-size: 30px;
  }
  h4 {
     color: white;
-    text-align: center;
     text-shadow: 2px 2px 5px red;
     font-size: 30px;
  }
@@ -35,5 +32,10 @@ h1 {
     text-align: center;
     text-shadow: 2px 2px 5px red;
     font-size: 20px;
+ }
+ h5 {
+   color: white;
+   text-shadow: 2px 2px 5px red;
+   font-size: 30px;
  }
     
